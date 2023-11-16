@@ -8,14 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-My name is Felix, from Taoyuan. I enjoy reading books of various field such as economy, programming and psychology and also like to play basketball in my spare time.
+My name is Felix, from Taoyuan. 
 I am an efficient person and I believe communication is essential during teamwork. Therefore, I can always allocate tasks to the right people and make sure things are done effectively.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My interest includes: 
+* Machine Learninng & Deep Learning
+* Semicon
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* 
+Recent News
+======
+* (03/2023) Join Amazon Alexa Speech team as research scientist intern in 2023 summer @ Seattle. 
+* (02/2023) My internship work with Amazon Alexa has been accepted by [ICASSP 2023](https://2023.ieeeicassp.org/)!
+* (01/2023) Our paper "On the Utility of Self-supervised Models for Prosody-related Tasks", cooperating with Prof. Nigel Ward of UTEP, won the [Best Paper Award](https://slt2022.org/best-papers.php) of IEEE SLT 2022!
+* (09/2022) *SUPERB-prosody* is accepted by [SLT 2022](https://slt2022.org/).
+* (07/2022) Receive ISCA Travel Grants for [Interspeech 2022](https://interspeech2022.org/).
+* (06/2022) My two first-author papers have been accepted at [Interspeech 2022](https://interspeech2022.org/).
+
+Education
+======
+* **Direct pursuing Ph.D. from M.S.** in Communication Engineering, Data Science and Smart Networking Group, National Taiwan University
+*[2021 - Present]*
+  * Advisor: Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.html)
+  * GPA: 4.24/4.3; Ranking: 15/158
+* **Advanced AI Program**, National Tsing Hua University
+*[2020 - 2021]*
+  * GPA: 4.3/4.3
+* **B.S.** in Biomedical Engineering, National Tsing Hua University
+*[2017 - 2021]*
+  * GPA: 4.08/4.3; Ranking: 1/45
 
 Getting started
 ======
