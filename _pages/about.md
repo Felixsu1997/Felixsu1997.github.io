@@ -19,7 +19,7 @@ My Skill
 Education
 ======
 * M.S., Information Technology Group / Department of Civil Engineering / National Central University, Taiwan
-* [Thesis](https://hdl.handle.net/11296/w42vdm) 2022*\\
+* [My Thesis](https://hdl.handle.net/11296/w42vdm) 
 * B.S., Department of Civil Engineering / National Ilan University, Taiwan
 
 
@@ -51,19 +51,26 @@ Work Experience
   
 * **National Central University**\\[2022/1 - 2022/10] 
 * Research Assistant
-  1. Project Title: "Near-Zero Energy Building Energy Simulation and Assessment"
-    * Evaluate the relevant data required for Building Energy Modeling (BEM) to assess the lifecycle energy consumption and carbon emissions.
-    * Develop scripts using C++ in conjunction with the Revit platform to calculate the Energy Use Intensity (EUI) indicators and associated formulas as outlined in the project.
-    * Utilize deep learning techniques to predict and analyze the electricity usage and environmental data for a specified public building location, demonstrating the effectiveness of the model.
+1. Project Title: "Near-Zero Energy Building Energy Simulation and Assessment"
+  * Evaluate the relevant data required for Building Energy Modeling (BEM) to assess the lifecycle energy consumption and carbon emissions.
+  * Develop scripts using C++ in conjunction with the Revit platform to calculate the Energy Use Intensity (EUI) indicators and associated formulas as outlined in the project.
+  * Utilize deep learning techniques to predict and analyze the electricity usage and environmental data for a specified public building location, demonstrating the effectiveness of the model.
     
-  2. Project Title:"Roof-mounted Photovoltaic Panel Monitoring and Data Analysis"(https://reurl.cc/1GaE7W)
-    * Development of an Intelligent Device for Photovoltaic Module Fault Diagnosis
-    * Hardware Configuration / Monitoring Module / Battery Charging and Discharging Module / Input-Output Control Module
-    * Software Configuration / Arduino Programming / Wi-Fi Module Programming / Monitoring Data Collection Program
-   
+2. [Project Title:"Roof-mounted Photovoltaic Panel Monitoring and Data Analysis](http://www.ciche.org.tw/wordpress/wp-content/uploads/2022/05/DB4901-P004-%E5%B1%8B%E9%A0%82%E5%9E%8B%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF.pdf)
+  * Development of an Intelligent Device for Photovoltaic Module Fault Diagnosis
+  * Hardware Configuration / Monitoring Module / Battery Charging and Discharging Module / Input-Output Control Module
+  * Software Configuration / Arduino Programming / Wi-Fi Module Programming / Monitoring Data Collection Program
+
+3.Organizing an Online Seminar - [26th Conference on Computer Applications in Civil and Hydraulic Engineering 2021](https://sites.google.com/view/ccache2021/home)
+  * website development
+  * hosting duties
+  * backend technical support.
+
+
+
 Awards
 ======
-* Best Paper Award, In The 25th Symposium on Construction Engineering and Management
+* Best Paper Award, [In The 25th Symposium on Construction Engineering and Management](https://sites.google.com/g.ntu.edu.tw/scem-2021/%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-list-of-paper-award?authuser=0)
 * Scholarship of Department of Civil Engineering
 * Terminal Scholarship of Department of Civil Engineering 109-1 / 110-1
 
