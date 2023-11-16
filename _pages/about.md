@@ -56,7 +56,7 @@ Work Experience
   * Develop scripts using C++ in conjunction with the Revit platform to calculate the Energy Use Intensity (EUI) indicators and associated formulas as outlined in the project.
   * Utilize deep learning techniques to predict and analyze the electricity usage and environmental data for a specified public building location, demonstrating the effectiveness of the model.
     
-2. [Project Title:"Roof-mounted Photovoltaic Panel Monitoring and Data Analysis](http://www.ciche.org.tw/wordpress/wp-content/uploads/2022/05/DB4901-P004-%E5%B1%8B%E9%A0%82%E5%9E%8B%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF.pdf)
+2. [Project Title:Roof-mounted Photovoltaic Panel Monitoring and Data Analysis](http://www.ciche.org.tw/wordpress/wp-content/uploads/2022/05/DB4901-P004-%E5%B1%8B%E9%A0%82%E5%9E%8B%E5%A4%AA%E9%99%BD%E8%83%BD%E6%9D%BF.pdf)
   * Development of an Intelligent Device for Photovoltaic Module Fault Diagnosis
   * Hardware Configuration / Monitoring Module / Battery Charging and Discharging Module / Input-Output Control Module
   * Software Configuration / Arduino Programming / Wi-Fi Module Programming / Monitoring Data Collection Program
