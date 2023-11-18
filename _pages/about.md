@@ -40,7 +40,7 @@ Internship
 
 Work Experience
 ======
-* **Unikorn Semiconductor Corporation**\\[2023/7 - NOW]
+* **Unikorn Semiconductor Corporation**\\[2023/7 - Now]
 * Yield Engineer
   * Established an AOI inspection station, developed inspection programs, and ensured manufacturing stability.
   * Implemented logic programs at the inspection station for filtering different types of defects.
