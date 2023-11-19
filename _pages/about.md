@@ -19,7 +19,7 @@ My Skill
 Education
 ======
 * M.S., Information Technology Group / Department of Civil Engineering / National Central University, Taiwan
-* [My Thesis](https://hdl.handle.net/11296/w42vdm) 
+  * [My Thesis](https://hdl.handle.net/11296/w42vdm) 
 * B.S., Department of Civil Engineering / National Ilan University, Taiwan
 
 
