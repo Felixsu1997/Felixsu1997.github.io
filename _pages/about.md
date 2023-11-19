@@ -51,7 +51,7 @@ Work Experience
   
 * **National Central University**\\[2022/1 - 2022/10] 
 * Research Assistant
-  * Project Title: "Near-Zero Energy Building Energy Simulation and Assessment"
+  * Project Title: Near-Zero Energy Building Energy Simulation and Assessment
   1. Evaluate the relevant data required for Building Energy Modeling (BEM) to assess the lifecycle energy consumption and carbon emissions.
   2. Develop scripts using C++ in conjunction with the Revit platform to calculate the Energy Use Intensity (EUI) indicators and associated formulas as outlined in the project.
   3. Utilize deep learning techniques to predict and analyze the electricity usage and environmental data for a specified public building location, demonstrating the effectiveness of the model.
