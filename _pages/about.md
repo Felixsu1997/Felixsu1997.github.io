@@ -42,17 +42,12 @@ Work Experience
 ======
 * **Unikorn Semiconductor Corporation**\\[2023/7 - Present]
 * Yield Engineer
-  *Semiconductor Process
-  *Yield Improvement
-  *Root Cause Analysis of Defects
-  *Physical Theory of Components
-  *Optical Measurement Instruments
+  * Semiconductor Process
+  * Yield Improvement
+  * Root Cause Analysis of Defects
+  * Physical Theory of Components
+  * Optical Measurement Instruments
 
-
-
-
-
-  
 * **National Central University**\\[2022/1 - 2022/10] 
 * Research Assistant
   * Project Title: Near-Zero Energy Building Energy Simulation and Assessment
