@@ -69,7 +69,7 @@ Work Experience
 
 Awards
 ======
-* Best Paper Award, [In The 25th Symposium on Construction Engineering and Management](https://sites.google.com/g.ntu.edu.tw/scem-2021/%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-list-of-paper-award?authuser=0)
+* Best Paper Award, [In The 25th Symposium on Construction Engineering and Management]"Certificate of Merit.jpg"
 * Scholarship of Department of Civil Engineering
 * Terminal Scholarship of Department of Civil Engineering 109-1 / 110-1
 * Certificate of Completion: Linux Course
