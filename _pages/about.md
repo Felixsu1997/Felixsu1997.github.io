@@ -42,12 +42,16 @@ Work Experience
 ======
 * **Unikorn Semiconductor Corporation**\\[2023/7 - Present]
 * Yield Engineer
-  * Established an AOI inspection station, developed inspection programs, and ensured manufacturing stability.
-  * Implemented logic programs at the inspection station for filtering different types of defects.
-  * Promptly identified and analyzed residual defects in the manufacturing process, engaging in discussions with equipment and process engineers to troubleshoot and resolve issues.
-  * Maintained the Klarity backend system, utilizing Linux and Oracle for database maintenance.
-  * Developed Excel VBA programs for automated data retrieval, optimizing efficiency and reducing manpower and time costs.
- 
+  *Semiconductor Process
+  *Yield Improvement
+  *Root Cause Analysis of Defects
+  *Physical Theory of Components
+  *Optical Measurement Instruments
+
+
+
+
+
   
 * **National Central University**\\[2022/1 - 2022/10] 
 * Research Assistant
@@ -73,6 +77,12 @@ Awards
 * Best Paper Award, [In The 25th Symposium on Construction Engineering and Management](https://sites.google.com/g.ntu.edu.tw/scem-2021/%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE-list-of-paper-award?authuser=0)
 * Scholarship of Department of Civil Engineering
 * Terminal Scholarship of Department of Civil Engineering 109-1 / 110-1
+* Certificate of Completion: Linux Course
+
+
+
+
+
 
 
 
