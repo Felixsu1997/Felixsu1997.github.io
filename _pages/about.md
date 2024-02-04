@@ -69,7 +69,7 @@ Work Experience
 
 Awards
 ======
-* Best Paper Award, [In The 25th Symposium on Construction Engineering and Management]"Certificate of Merit.jpg"
+* Best Paper Award, [In The 25th Symposium on Construction Engineering and Management]
 * Scholarship of Department of Civil Engineering
 * Terminal Scholarship of Department of Civil Engineering 109-1 / 110-1
 * Certificate of Completion: Linux Course
