@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About Yu-Hsiang (Felix) Su"
+excerpt: "About Yu-Xiang (Felix) Su"
 author_profile: true
 redirect_from: 
   - /about/
