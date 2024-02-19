@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "tw-TW"
-title                    : "Yu-Hsiang (Felix) Su"
+title                    : "Yu-Xiang (Felix) Su"
 title_separator          : "-"
-name                     : &name "Yu-Hsiang (Felix) Su"
+name                     : &name "Yu-Xiang (Felix) Su"
 description              : &description "Semiconductor Engineer/Information Technology Engineer"
 url                      : https://Felixsu1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu-Hsiang (Felix) Su"
+  name             : "Yu-Xsiang (Felix) Su"
   avatar           : "profile.png"
   bio              : "Semiconductor Engineer/Information Technology Engineer"
   location         : "Taiwan"
