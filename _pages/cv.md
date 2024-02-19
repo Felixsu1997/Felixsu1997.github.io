@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please see my résumé via [[pdf link]](http:/Felixsu1997.github.io/files/Yu_Hsiang_Su_CV.pdf).
+Please see my résumé via [[pdf link]](http:/Felixsu1997.github.io/files/Yu_Xiang_Su_CV.pdf).
 
 
 
