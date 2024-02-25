@@ -25,28 +25,27 @@ Education
 
 Internship
 ======
-* **Delta Electronics, Inc. Department of Electricity Vehicle \ Assistant Engineer**\\ [2020/11 - 2021/6]
+* **Delta Electronics, Inc. Department of Electricity Vehicle \ Assistant Engineer* [2020/11 - 2021/6]
   * Develop and validate machine programs, assuming responsibility for machine installation and maintenance.
   * Conduct in-depth research and analysis of industry, product, and market trends.
   * Spearhead the development, design, and implementation of manufacturing execution systems and automation-centric software for machine equipment.
   * Proficiently operate and validate electron beam equipment.
   * Systematically investigate and ascertain the root causes of equipment anomalies in the work environment, subsequently implementing corrective measures.
   
-* **Structural Consulting Firm**\\ [2019/7 - 2020/3] 
+* **Structural Consulting Firm* [2019/7 - 2020/3] 
   * Proficient in AutoCAD for visualization and drafting.
   * Expertise in the calculation of structural steel materials.
   * Conducting on-site assessments and surveys.
 
 Work Experience
 ======
-* **Unikorn Semiconductor Corporation \ Yield Engineer**\\[2023/7 - Present]
-  * Semiconductor Process
-  * Yield Improvement
-  * Root Cause Analysis of Defects
-  * Physical Theory of Components
-  * Optical Measurement Instruments
+* **Unikorn Semiconductor Corporation \ Yield Engineer* [2023/7 - Present]
+  * Early Warning of Anomalies: Mastering advanced process flows to ensure timely resolution of any abnormalities in the product process and to ensure production stability
+  * Reduce Defect Recurrence Rate and Improve Yield: Collaborate closely with the process team to control daily product yield; conduct experiments and process improvement evaluations to increase the company's product yield and ensure an increase in gross profit margin.
+  * Establishing Recipes to Enhance Machine Defect Detection Capabilities.
+  * 	Linux, Oracle, UDB System Maintenance/Excel Data Analysis, Big Data Analysis, Automated Data Retrieval.
 
-* **National Central University**\\[2022/1 - 2022/10] 
+* **National Central University* \ [2022/1 - 2022/10] 
 * Research Assistant
   * Project Title: Near-Zero Energy Building Energy Simulation and Assessment
   1. Evaluate the relevant data required for Building Energy Modeling (BEM) to assess the lifecycle energy consumption and carbon emissions.
