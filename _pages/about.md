@@ -25,8 +25,7 @@ Education
 
 Internship
 ======
-* **Delta Electronics, Inc. Department of Electricity Vehicle**\\ [2020/11 - 2021/6]
-* Product Testing & Verification Engineer
+* **Delta Electronics, Inc. Department of Electricity Vehicle \ Assistant Engineer**\\ [2020/11 - 2021/6]
   * Develop and validate machine programs, assuming responsibility for machine installation and maintenance.
   * Conduct in-depth research and analysis of industry, product, and market trends.
   * Spearhead the development, design, and implementation of manufacturing execution systems and automation-centric software for machine equipment.
@@ -40,8 +39,7 @@ Internship
 
 Work Experience
 ======
-* **Unikorn Semiconductor Corporation**\\[2023/7 - Present]
-* Yield Engineer
+* **Unikorn Semiconductor Corporation \ Yield Engineer**\\[2023/7 - Present]
   * Semiconductor Process
   * Yield Improvement
   * Root Cause Analysis of Defects
