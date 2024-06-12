@@ -12,9 +12,22 @@ I am an efficient person and I believe communication is essential during teamwor
 
 My Skill
 ======
-* Architecture Software：AutoCAD、Revit
-* Programming：Python、Arduino、Machine Learning、Linux、Oracle 
-* Graphic Designer Software：Photoshop、Illustrator、Premiere
+* Semiconductor Process：
+  1.	Yield Improvement
+  2.	Root Cause Analysis of Defects
+  3.	Device Physics theory
+  4.	Optical Measurement Instruments
+
+* Civil Engineering related：
+  1.	AutoCAD / Revit / ETABS analysis
+ 
+* Programming：
+  1.	Data analysis and visualization
+  2.	Deep learning analysis and applications in information management
+  3.	Embedded systems, firmware programming, basic electronic circuits, Arduino, Node.js, MQTT for monitoring module        development
+  4.	Linux CentOS RHEL 8 (Certification from Hahow)
+  5.	DBA - SQL Server database management (Certification from Hahow).
+
 
 Education
 ======
@@ -26,24 +39,18 @@ Education
 Internship
 ======
 * **Delta Electronics, Inc. Department of Electricity Vehicle \ Assistant Engineer* [2020/11 - 2021/6]
-  * Develop and validate machine programs, assuming responsibility for machine installation and maintenance.
-  * Conduct in-depth research and analysis of industry, product, and market trends.
-  * Spearhead the development, design, and implementation of manufacturing execution systems and automation-centric software for machine equipment.
-  * Proficiently operate and validate electron beam equipment.
-  * Systematically investigate and ascertain the root causes of equipment anomalies in the work environment, subsequently implementing corrective measures.
-  
-* **Structural Consulting Firm* [2019/7 - 2020/3] 
-  * Proficient in AutoCAD for visualization and drafting.
-  * Expertise in the calculation of structural steel materials.
-  * Conducting on-site assessments and surveys.
+  1.	Develop testing equipment programs and oversee equipment installation and maintenance.
+  2.	Integrate software (LabVIEW) development with hardware (motors and other equipment) in terms of firmware.
+  3.	Operate and validate electron beam equipment.
+  4.	Identify and rectify causes of equipment abnormalities at the work site.
 
 Work Experience
 ======
-* **Unikorn Semiconductor Corporation \ Yield Engineer* [2023/7 - Present]
-  * Early Warning of Anomalies: Mastering advanced process flows to ensure timely resolution of any abnormalities in the product process and to ensure production stability
-  * Reduce Defect Recurrence Rate and Improve Yield: Collaborate closely with the process team to control daily product yield; conduct experiments and process improvement evaluations to increase the company's product yield and ensure an increase in gross profit margin.
-  * Establishing Recipes to Enhance Machine Defect Detection Capabilities.
-  * 	Linux, Oracle, UDB System Maintenance/Excel Data Analysis, Big Data Analysis, Automated Data Retrieval.
+* **Unikorn Semiconductor Corporation \  Process integration Engineer * [2023/7 - Present]
+  1.	Improve yield and enhance electrical properties, reduce costs and increase shipment volumes. Understand different customer needs and assist in effective and timely product shipments. Communicate and collaborate with process engineers. 
+  2.	Address abnormal events in the process immediately, improve defects through product knowledge and past experience, and work with other engineers to reduce defect recurrence and enhance process yield. 
+  3.	A Leveraged programming skills acquired during graduate studies to handle team data analysis, write VBA scripts, use SAS to reduce data processing time, extract data using EDA, and maintain KLA databases. Additionally, pursued online courses in DBA, ORACLE, SQL, and LINUX after work to strengthen technical skills. 
+
 
 * **National Central University* \ [2022/1 - 2022/10] 
 * Research Assistant
@@ -66,10 +73,12 @@ Work Experience
 
 Awards
 ======
-* Best Paper Award, [In The 25th Symposium on Construction Engineering and Management]
-* Scholarship of Department of Civil Engineering
-* Terminal Scholarship of Department of Civil Engineering 109-1 / 110-1
-* Certificate of Completion: Linux Course
+*	2022, Institute for Information Industry / Researcher / Energy Simulation and Evaluation of Nearly Zero Energy Consumption Buildings | Main project: Building Net Zero Energy Consumption Promotion and Smart Electricity Demonstration Program, III and New Taipei City Government
+*	Monitoring and Data Presentation of Roof-Type Solar Panels: Utilizing Arduino and Building Information Modeling. Civil Engineering and Hydraulic Engineering, 49(1), 4-9.
+*	Best Paper Award, In The 25th Symposium on Construction Engineering and Management
+*	Scholarship of Department of Civil Engineering
+*	Terminal Scholarship of Department of Civil Engineering 109-1 / 110-1
+
 
 
 
