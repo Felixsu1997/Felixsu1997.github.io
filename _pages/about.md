@@ -13,10 +13,9 @@ I am an efficient person and I believe communication is essential during teamwor
 My Skill
 ======
 * Semiconductor Process：
-  1.	Yield Improvement
-  2.	Root Cause Analysis of Defects
-  3.	Device Physics theory
-  4.	Optical Measurement Instruments
+  1.	Professional Knowledge: Yield improvement, root cause analysis of defects, device physics theory, optical measurement instruments
+  2.	Analytical Skills: DOE, EDA, SAS, SEM, FMEA, FIB, Filmetrics F54
+
 
 * Civil Engineering related：
   1.	AutoCAD / Revit / ETABS analysis
@@ -41,15 +40,16 @@ Internship
 * **Delta Electronics, Inc. Department of Electricity Vehicle \ Assistant Engineer* [2020/11 - 2021/6]
   1.	Develop testing equipment programs and oversee equipment installation and maintenance.
   2.	Integrate software (LabVIEW) development with hardware (motors and other equipment) in terms of firmware.
-  3.	Operate and validate electron beam equipment.
-  4.	Identify and rectify causes of equipment abnormalities at the work site.
+  3.	Operate and validate electron beam equipment,Identify and rectify causes of equipment abnormalities at the work site.
 
 Work Experience
 ======
 * **Unikorn Semiconductor Corporation \  Process integration Engineer * [2023/7 - Present]
-  1.	Improve yield and enhance electrical properties, reduce costs and increase shipment volumes. Understand different customer needs and assist in effective and timely product shipments. Communicate and collaborate with process engineers. 
-  2.	Address abnormal events in the process immediately, improve defects through product knowledge and past experience, and work with other engineers to reduce defect recurrence and enhance process yield. 
-  3.	A Leveraged programming skills acquired during graduate studies to handle team data analysis, write VBA scripts, use SAS to reduce data processing time, extract data using EDA, and maintain KLA databases. Additionally, pursued online courses in DBA, ORACLE, SQL, and LINUX after work to strengthen technical skills. 
+  1.	Process Improvement: Collaborated with process engineers to continuously improve process health and reduce costs, providing CIP planning for clients.
+  2.	Yield Enhancement for Client Products: Enhanced client yield for CP Test or FT Test through WAT electrical and inline process parameter correlation analysis, combined with FEM Window Check.
+  3.	Customer Return Analysis: Assisted clients with yield anomaly wafers by performing Mapping WAT analysis and PFA physical failure analysis. Used SEM and EDX to identify the root cause of low yield.
+  4.	SOP Improvement for New Tape Outs: Improved flow establishment, adjusted checklists, simplified shipping arrangements, reduced cycle time, and enhanced design rules.
+  5.	Data Analysis and Database Maintenance: Utilized Python and VBA to streamline repetitive tasks, maintained and managed KLA databases using Oracle, SQL, and Linux commands.
 
 
 * **National Central University* \ [2022/1 - 2022/10] 
