@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Autobiography"
-permalink: /Autobiography/
+title: "Award"
+permalink: /Award/
 author_profile: true
 redirect_from:
   - /resume
