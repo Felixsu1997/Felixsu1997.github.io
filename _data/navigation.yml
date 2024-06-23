@@ -9,11 +9,11 @@ main:
   - title: "CV"
     url: /cv/
   
-  #- title: "Educational Background"
-  #  url: /Educational Background/    
+  - title: "Educational Background"
+    url: /Educational Background/    
     
-  #- title: "Award"
-  #  url: /Award/
+  - title: "Award"
+    url: /Award/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
