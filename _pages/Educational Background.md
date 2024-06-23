@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Work Experience"
-permalink: /Work Experience/
+title: "Education Background"
+permalink: /Education Background/
 author_profile: true
 redirect_from:
   - /resume
