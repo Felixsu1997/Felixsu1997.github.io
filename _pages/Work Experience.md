@@ -20,7 +20,7 @@ redirect_from:
  7.	Data analysis: Collaborated with IT to implement AI, using Python and the TensorFlow framework to develop a CNN for automatic defect type recognition with an accuracy of approximately 80%.
  8.	Customer returns analysis: Verified incoming micro LED products using EFC & Chroma penetrative inspection equipment (such as X-ray/Tera Hertz/IR), identified abnormal incoming materials, and set inspection standards, saving the company about 6 million per year.
  9.	Database maintenance: Maintained the KLA database and completed online courses in Linux & DBA during after-hours, earning completion certificates.
- 10.	External Training Program: Process and Equipment Overview from National Yang Ming Chiao Tung University
+10. External Training Program: Process and Equipment Overview from National Yang Ming Chiao Tung University
 * **Delta Electronics, Inc，Electric Vehicle Business Group, Internship* / Zhongli  2020/12 – 2021/7
 ======
 *C/Labview/excel/electronic circuit
