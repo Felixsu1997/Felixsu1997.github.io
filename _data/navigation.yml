@@ -1,22 +1,23 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Autobiography"
+    url: /Autobiography/  
+  
+  - title: "Work Experience"
+    url: /Work Experience/
 
-  #- title: "Program"
-  #  url: /program/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "CV"
+    url: /cv/
+  
+  #- title: "Educational Background"
+  #  url: /Educational Background/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  #- title: "Award"
+  #  url: /Award/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
+
   #- title: "Guide"
   #  url: /markdown/
