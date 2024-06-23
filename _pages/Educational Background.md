@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Education Background"
-permalink: /Education Background/
+title: "Educational Background"
+permalink: /Educational Background/
 author_profile: true
 redirect_from:
   - /resume
