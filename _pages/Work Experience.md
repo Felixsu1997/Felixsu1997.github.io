@@ -24,5 +24,5 @@ redirect_from:
 * **Delta Electronics, Inc，Electric Vehicle Business Group, Internship* / Zhongli  2020/12 – 2021/7
 ======
 *C/Labview/excel/electronic circuit
-1. Optimized product stability using C language and enhanced product testing processes with Labview. 
-2. Improved hardware by soldering circuits and redesigning product layouts, facilitating market introduction and automating systems and equipment. These efforts increased operational efficiency, and improved product quality and yield stability by 80%.
+  1.	Optimized product stability using C language and enhanced product testing processes with Labview. 
+  2.	Improved hardware by soldering circuits and redesigning product layouts, facilitating market introduction and automating systems and equipment. These efforts increased operational efficiency, and improved product quality and yield stability by 80%.
